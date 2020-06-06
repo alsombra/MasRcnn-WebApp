@@ -20,3 +20,9 @@ opencv-python
 h5py
 imgaug
 IPython[all]
+flask_ngrok
+gevent
+imgaug
+Cython
+pycocotools
+kaggle
